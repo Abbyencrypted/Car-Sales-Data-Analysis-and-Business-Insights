@@ -29,6 +29,7 @@ The dataset contains transactional car sales records with fields including:
 * Vehicle specifications
 * Pricing information
 * Income distribution data
+
 Sensitive fields such as phone numbers were removed before publishing this repository.
 
 ## Analytical Workflow
